@@ -1,6 +1,6 @@
 # OurUMassd-PROJECTS
 
-Welcome to the MyUMassd-PROJECTS GitHub repository! 🚀
+Welcome to the OurUMassd-PROJECTS GitHub repository! 🚀
 
 This repository serves as a central hub for storing and managing all our project content. Its primary purpose is to facilitate collaboration and provide easy access to project materials for all members of our project group.
 
@@ -63,6 +63,6 @@ For any questions, concerns, or inquiries, please feel free to contact us at myu
 
 
 <!---
-MyUMassd-PROJECTS/MyUMassd-PROJECTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OurUMassd-PROJECTS/OurUMassd-PROJECTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
