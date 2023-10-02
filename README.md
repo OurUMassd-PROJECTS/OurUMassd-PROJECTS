@@ -13,15 +13,15 @@ This is your repository for all things UMassd projects! Here's what you'll find:
 Let's innovate together! 🌟
 
 ## Table of Contents
-- [About MyUMassd-PROJECTS](#about-myumassd-projects)
+- [About OurUMassd-PROJECTS](#about-ourumassd-projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
-## About MyUMassd-PROJECTS
+## About OurUMassd-PROJECTS
 
-At MyUMassd-PROJECTS, we believe in the power of collaboration and knowledge sharing. This GitHub account is dedicated to hosting a variety of projects, and it's a place where you can:
+At OurUMassd-PROJECTS, we believe in the power of collaboration and knowledge sharing. This GitHub account is dedicated to hosting a variety of projects, and it's a place where you can:
 
 - Access project documentation
 - Share code and scripts
@@ -33,12 +33,12 @@ Whether you're a developer, designer, researcher, or project manager, this repos
 
 ## Getting Started
 
-To get started with MyUMassd-PROJECTS, follow these simple steps:
+To get started with OurUMassd-PROJECTS, follow these simple steps:
 
 1. **Clone the Repository**: Use `git clone` to create a local copy of this repository on your machine.
 
 ```bash
-git clone https://github.com/YourUsername/MyUMassd-PROJECTS.git
+git clone https://github.com/YourUsername/OurUMassd-PROJECTS.git
 ```
 
 **Contribute**: Start collaborating by creating branches, making changes, and pushing them back to the repository. Be sure to follow our Contributing Guidelines for a smooth workflow.
@@ -54,9 +54,9 @@ We encourage everyone to contribute to our projects! Whether it's fixing a bug, 
 Please note that this repository and all associated projects follow our Code of Conduct. We expect all contributors and users to adhere to these guidelines to maintain a respectful and inclusive community.
 
 ## License
-All projects hosted under MyUMassd-PROJECTS are open-source and released under the MIT License. You can find the full license details in the LICENSE file for each individual project.
+All projects hosted under OurUMassd-PROJECTS are open-source and released under the MIT License. You can find the full license details in the LICENSE file for each individual project.
 
-Thank you for being a part of MyUMassd-PROJECTS. Let's build amazing things together! 🌟
+Thank you for being a part of OurUMassd-PROJECTS. Let's build amazing things together! 🌟
 
 For any questions, concerns, or inquiries, please feel free to contact us at myumassdprojects@gmail.com.
 
