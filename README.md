@@ -1,4 +1,4 @@
-# MyUMassd-PROJECTS
+# OurUMassd-PROJECTS
 
 Welcome to the MyUMassd-PROJECTS GitHub repository! 🚀
 
