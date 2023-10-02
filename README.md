@@ -4,6 +4,14 @@ Welcome to the MyUMassd-PROJECTS GitHub repository! 🚀
 
 This repository serves as a central hub for storing and managing all our project content. Its primary purpose is to facilitate collaboration and provide easy access to project materials for all members of our project group.
 
+This is your repository for all things UMassd projects! Here's what you'll find:
+
+1. 🚀 Home to UMass Dartmouth projects.
+2. 💻 Explore code, research, and more.
+3. 🤝 Collaborate with our project community.
+
+Let's innovate together! 🌟
+
 ## Table of Contents
 - [About MyUMassd-PROJECTS](#about-myumassd-projects)
 - [Getting Started](#getting-started)
